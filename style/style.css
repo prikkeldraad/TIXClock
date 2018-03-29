@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, verdana;
+}
+
+.tix caption {
+	font-weight: bold;
+}
+
+.tix td {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	border: 1px solid black;
+	background-color: white;
+}
+
+.tix {
+	border: 0px;
+}
+
+.tix td.rs {
+	border: 0px;
+}
+
+div#clock {
+	position: absolute;
+	height: 200px;
+}
+
+#footer {
+	font-size: 8pt;
+}
